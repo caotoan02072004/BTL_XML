@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="yc1.xsl" type="text/xsl"?>
+<!-- <?xml-stylesheet href="yc2.xsl" type="text/xsl"?> -->
+<!-- <?xml-stylesheet href="yc3.xsl" type="text/xsl"?> -->
+<!-- <?xml-stylesheet href="yc4.xsl" type="text/xsl"?> -->
+<!-- <?xml-stylesheet href="yc5.xsl" type="text/xsl"?> -->
+<Employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="btl.xsd">
+    <Employee>
+        <Employee_id>100</Employee_id>
+        <First_name>Nguyễn</First_name>
+        <Last_name>Luận</Last_name>
+        <Email>luannv@gmail.com</Email>
+        <Phone_number>0339513645</Phone_number>
+        <Date>2018-01-01</Date>
+        <Job_id>1</Job_id>
+        <Salary>2000000</Salary>
+        <Manager_id>105</Manager_id>
+    </Employee>
+    <Employee>
+        <Employee_id>101</Employee_id>
+        <First_name>Nguyễn</First_name>
+        <Last_name>Năng</Last_name>
+        <Email>nang@gmail.com</Email>
+        <Phone_number>0339513642</Phone_number>
+        <Date>2022-01-01</Date>
+        <Job_id>2</Job_id>
+        <Salary>3000000</Salary>
+        <Manager_id>108</Manager_id>
+    </Employee>
+    <Employee>
+        <Employee_id>102</Employee_id>
+        <First_name>Nguyễn</First_name>
+        <Last_name>Hiền</Last_name>
+        <Email>hienpx@gmail.com</Email>
+        <Phone_number>0339513643</Phone_number>
+        <Date>2020-01-08</Date>
+        <Job_id>1</Job_id>
+        <Salary>2000000</Salary>
+        <Manager_id>108</Manager_id>
+    </Employee>
+    <Employee>
+        <Employee_id>103</Employee_id>
+        <First_name>Nguyễn</First_name>
+        <Last_name>Lương</Last_name>
+        <Email>luong@gmail.com</Email>
+        <Phone_number>0339513641</Phone_number>
+        <Date>2020-01-09</Date>
+        <Job_id>1</Job_id>
+        <Salary>2000000</Salary>
+        <Manager_id>202</Manager_id>
+    </Employee>
+    <Employee>
+        <Employee_id>108</Employee_id>
+        <First_name>Nguyễn</First_name>
+        <Last_name>Toàn</Last_name>
+        <Email>toan@gmail.com</Email>
+        <Phone_number>0353915618</Phone_number>
+        <Date>2020-01-09</Date>
+        <Job_id>1</Job_id>
+        <Salary>3500000</Salary>
+        <Manager_id>201</Manager_id>
+    </Employee>
+</Employees>
